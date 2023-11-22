@@ -3,4 +3,9 @@ h1 {
     font-size: large;
     text-transform: uppercase;
     color: #1a00e1;
+    text-align: center;
+}
+h2 {
+color: lightcoral;
+font-size: 50px;
 }
