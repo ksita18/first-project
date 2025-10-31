@@ -1,11 +1,12 @@
 h1 {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     text-transform: uppercase;
     color: #1a00e1;
     text-align: center;
 }
+
 h2 {
-color: lightcoral;
-font-size: 50px;
+    color: lightcoral;
+    font-size: 50px;
 }
